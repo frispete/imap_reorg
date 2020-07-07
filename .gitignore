@@ -13,6 +13,6 @@ build/
 cur/
 dist/
 tmp/
-wm_win_tool.egg-info/
+imap_reorg.egg-info/
 __pycache__/
 *.DS_Store
